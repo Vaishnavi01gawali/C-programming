@@ -8,8 +8,8 @@ int main(void)
 	int iNo2= 'b';
 	char chChar3=33;
 	char chChar4='$';
-	char chAns;
-	
+	char chAns;  
+	 
 	printf("chChar1 in Character format = %c\n",chChar1);                                 //A
 	printf("chChar1 in Interger format = %d\n",chChar1);                                 //65
 	
@@ -35,3 +35,4 @@ int main(void)
 	
 	return 0;
 } 
+
